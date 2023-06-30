@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Criando Responsabilidade e Autonomia</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      color: #333;
+      background-color: #f5f5f5;
+      margin: 0;
+      padding: 0;
+    }
+
+    h1 {
+      color: #FF0000;
+      text-align: center;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #FFF;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .section {
+      margin-bottom: 30px;
+    }
+
+    .section h2 {
+      color: #FF0000;
+    }
+
+    .section img {
+      display: block;
+      max-width: 100%;
+      margin: 20px auto;
+    }
+
+    .cta-button {
+      display: block;
+      width: 200px;
+      margin: 20px auto;
+      padding: 10px;
+      background-color: #FF0000;
+      color: #FFF;
+      text-align: center;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 4px;
+    }
+
+    .testimonials {
+      text-align: center;
+    }
+
+    .testimonial {
+      margin-bottom: 20px;
+    }
+
+    .contact {
+      text-align: center;
+    }
+
+    .contact p {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Criando Responsabilidade e Autonomia</h1>
+
+    <div class="section">
+      <h2>Por que é importante as crianças ajudarem nas tarefas domésticas?</h2>
+      <p>Explique aqui os benefícios sociais e morais de envolver as crianças nas tarefas domésticas, destacando como o seu e-book pode ajudar os pais nesse processo.</p>
+      <img src="criancas-tarefas.jpg" alt="Crianças ajudando nas tarefas domésticas">
+    </div>
+
+    <div class="section">
+      <h2>Oferta especial</h2>
+      <p>Faça uma oferta especial para incentivar as pessoas a comprarem o e-book.</p>
+      <a class="cta-button" href="#">Adquira agora</a>
+    </div>
+
+    <div class="section">
+      <h2>Depoimentos</h2>
+      <div class="testimonials">
+        <div class="testimonial">
+          <p>"Esse e-book transformou a rotina da minha família. Recomendo a todos!"</p>
+          <p>- Joana</p>
+        </div>
+        <div class="testimonial">
+          <p>"Meus filhos aprenderam responsabilidade e autonomia de uma forma divertida com esse guia prático."</p>
+          <p>- Pedro</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="section contact">
+      <h2>Entre em contato</h2>
+      <p>Se tiver alguma dúvida ou precisar de mais informações, estamos aqui para ajudar.</p>
+      <p>Email: contato@seusite.com</p>
+      <p>Telefone: (XX) XXXX-XXXX</p>
+    </div>
+
+    <div class="section">
+      <a class="cta-button" href="#">Compre agora</a>
+    </div>
+  </div>
+</body>
+</html>
